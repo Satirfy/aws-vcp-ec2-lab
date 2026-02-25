@@ -31,3 +31,17 @@ SCREENSHOTS
 ![EC2 update](imagem_2026-02-25_110633112.png)
 ![EC2 running](imagem_2026-02-25_111016988.png)
 ![VPC available](imagem_2026-02-25_111238350.png)
+
+
+CUSTON WEB SERVER RUNNING ON AWS EC2 WITH NGINX:
+
+Public acess: http://18.2285.48
+
+ARCHITECTURE:
+- VPC
+- Public subnet
+- Internet Gateway
+- Route table
+- Security Group: SSH + HTTP
+- EC2
+- nginx web server 
