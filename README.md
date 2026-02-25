@@ -29,3 +29,4 @@ SKILLS REQUIRED:
 SCREENSHOTS
 
 ![EC2 update](imagem_2026-02-25_110633112.png)
+![EC2 running](imagem_2026-02-25_111016988.png)
