@@ -30,3 +30,4 @@ SCREENSHOTS
 
 ![EC2 update](imagem_2026-02-25_110633112.png)
 ![EC2 running](imagem_2026-02-25_111016988.png)
+![VPC available](imagem_2026-02-25_111238350.png)
