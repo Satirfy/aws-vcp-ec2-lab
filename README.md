@@ -25,3 +25,7 @@ SKILLS REQUIRED:
 - Subnets: public and private
 - Internet Gateway configuration
 - EC2 deployment
+
+SCREENSHOTS
+
+![EC2 update](imagem_2026-02-25_110633112.png)
